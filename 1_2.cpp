@@ -9,10 +9,10 @@ int main() {
     cout << "a = " << a << endl;
     cout << "b = " << b << endl;
     cout << "c = " << c << endl;
-    int day = 17, year = 2000;
+    int day = 02, year = 2003;
     string month = "июнь";
     cout << "Моя дата рождения: " << day << month << year << "года."<< endl;
-    const float x = 2.3;
+    const float x = 56.458;
     const string y = "WINDOWS";
     cout << x << " " << y << endl;
     return 0;
